@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_d01e94735ee9ab96c5524b1639ee60389213a1db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_df085d15dcd9b4f84c9f3ac18ff4bb6dfd051f30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b93cbdaee274b2db0d1e4508990339c428d39c80">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_137f500fecb94d75d0ae8abcfb22fe209192bd1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13bb6c12984574da326e5044ed3896c7a35122e6">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\instant-run_50a18f0ffa71d5fae65e7748b7012de7a410e38e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_1a53f27196a0910087f75ce60d3450bf7631acb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_e60ae674e3b2d78623362e9a24112ce5b27bbfa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_da83cd3cc84f3743ee7b6a42be5694dd6d8f12f6.jar" />
+    </item>
+    <item
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\bluetooth\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_d3af3516828f1fafa6b10dfa75ec5043a8b5210a.jar" />
+    </item>
+
+</items>
